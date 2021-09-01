@@ -1,3 +1,0 @@
-error logs
-check
-check 2
